@@ -11,6 +11,6 @@ workers:
     - type: web
       endpoint: {port: 8080, type: tcp}
       paths:
-        /: {directory:  "../../otone_frontend/web", type: static}
+        /: {directory:  "/home/pi/otone_frontend/web", type: static}
         ws: {type: "websocket"}
 
