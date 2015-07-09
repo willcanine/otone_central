@@ -13,15 +13,4 @@ workers:
       paths:
         /: {directory:  "../../otone_frontend/web", type: static}
         ws: {type: "websocket"}
-        config: {directory: "../../otone_frontend/web/config", type: static}
-- type: container
-  options: {pythonpath: [".."]}
-  components: 
-    - type: "class"
-      classname: "ot_server.ot_server.AppSession"
-      realm: "ot_realm"
-      transport: 
-        type: "websocket"
-        endpoint: {port: 8080, host: 127.0.0.1, type: tcp}
-        url: "ws://127.0.0.1:8080/ws"
 
