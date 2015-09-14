@@ -22,4 +22,4 @@ The key piece of this is the OT-Protocol JSON Datastructure. We based it on less
 ## Subrepository Links
 
 * [otone_frontend](https://github.com/Opentrons/otone_frontend)
-* [otone_frontend](https://github.com/Opentrons/otone_backend)
+* [otone_backend](https://github.com/Opentrons/otone_backend)
