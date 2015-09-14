@@ -23,3 +23,4 @@ The key piece of this is the OT-Protocol JSON Datastructure. We based it on less
 
 * [otone_frontend](https://github.com/Opentrons/otone_frontend)
 * [otone_backend](https://github.com/Opentrons/otone_backend)
+* [otone_scripts](https://github.com/Opentrons/otone_scripts)
