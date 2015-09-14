@@ -15,4 +15,4 @@ One important difference between building a 3D printer or CAD machine for physic
 
 The key piece of this is the OT-Protocol JSON Datastructure. We based it on lessons learned from PRPR and especially Transcriptic Autoprotocol. It is a 'low level' representation of every liquid transfer at the well-to-well level. The current iteration is far from perfect, but does the job for now. 
 
-![Software Diagram](img/tone_softawre_diagram_1024.png)
+![Software Diagram](img/otone_softawre_diagram_1024.png)
